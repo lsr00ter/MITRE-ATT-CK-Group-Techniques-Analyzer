@@ -28,4 +28,3 @@ The MITRE ATT&CK Group Techniques Analyzer is a Python-based tool that:
   - pandas
   - requests
   - beautifulsoup4
-
