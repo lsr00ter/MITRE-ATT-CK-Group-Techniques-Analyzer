@@ -20,6 +20,7 @@ The MITRE ATT&CK Group Techniques Analyzer is a Python-based tool that:
   - Usage descriptions
 - Handles complex table structures and relationships between techniques
 - Exports data to CSV format for integration with other tools
+- Crawls the MITRE ATT&CK Groups table and saves it as a CSV file (`mitre_attack_groups.csv`)
 
 ## Requirements
 
